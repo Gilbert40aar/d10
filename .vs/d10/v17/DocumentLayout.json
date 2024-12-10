@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgh\\source\\repos\\d10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{905A17A4-4CDF-409D-ACEC-63936C7847C2}|d10\\d10.csproj|c:\\users\\mgh\\source\\repos\\d10\\d10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905A17A4-4CDF-409D-ACEC-63936C7847C2}|d10\\d10.csproj|solutionrelative:d10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905A17A4-4CDF-409D-ACEC-63936C7847C2}|d10\\d10.csproj|c:\\users\\mgh\\source\\repos\\d10\\d10\\utils\\drawmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905A17A4-4CDF-409D-ACEC-63936C7847C2}|d10\\d10.csproj|solutionrelative:d10\\utils\\drawmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905A17A4-4CDF-409D-ACEC-63936C7847C2}|d10\\d10.csproj|c:\\users\\mgh\\source\\repos\\d10\\d10\\utils\\menuchoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905A17A4-4CDF-409D-ACEC-63936C7847C2}|d10\\d10.csproj|solutionrelative:d10\\utils\\menuchoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuChoices.cs",
+              "DocumentMoniker": "C:\\Users\\mgh\\source\\repos\\d10\\d10\\utils\\MenuChoices.cs",
+              "RelativeDocumentMoniker": "d10\\utils\\MenuChoices.cs",
+              "ToolTip": "C:\\Users\\mgh\\source\\repos\\d10\\d10\\utils\\MenuChoices.cs",
+              "RelativeToolTip": "d10\\utils\\MenuChoices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:08:48.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrawMenu.cs",
+              "DocumentMoniker": "C:\\Users\\mgh\\source\\repos\\d10\\d10\\utils\\DrawMenu.cs",
+              "RelativeDocumentMoniker": "d10\\utils\\DrawMenu.cs",
+              "ToolTip": "C:\\Users\\mgh\\source\\repos\\d10\\d10\\utils\\DrawMenu.cs",
+              "RelativeToolTip": "d10\\utils\\DrawMenu.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:19:42.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mgh\\source\\repos\\d10\\d10\\Program.cs",
+              "RelativeDocumentMoniker": "d10\\Program.cs",
+              "ToolTip": "C:\\Users\\mgh\\source\\repos\\d10\\d10\\Program.cs",
+              "RelativeToolTip": "d10\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:39:23.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

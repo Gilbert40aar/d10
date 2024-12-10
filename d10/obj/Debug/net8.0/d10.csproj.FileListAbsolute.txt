@@ -1,0 +1,14 @@
+C:\Users\mgh\source\repos\d10\d10\bin\Debug\net8.0\d10.exe
+C:\Users\mgh\source\repos\d10\d10\bin\Debug\net8.0\d10.deps.json
+C:\Users\mgh\source\repos\d10\d10\bin\Debug\net8.0\d10.runtimeconfig.json
+C:\Users\mgh\source\repos\d10\d10\bin\Debug\net8.0\d10.dll
+C:\Users\mgh\source\repos\d10\d10\bin\Debug\net8.0\d10.pdb
+C:\Users\mgh\source\repos\d10\d10\obj\Debug\net8.0\d10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgh\source\repos\d10\d10\obj\Debug\net8.0\d10.AssemblyInfoInputs.cache
+C:\Users\mgh\source\repos\d10\d10\obj\Debug\net8.0\d10.AssemblyInfo.cs
+C:\Users\mgh\source\repos\d10\d10\obj\Debug\net8.0\d10.csproj.CoreCompileInputs.cache
+C:\Users\mgh\source\repos\d10\d10\obj\Debug\net8.0\d10.dll
+C:\Users\mgh\source\repos\d10\d10\obj\Debug\net8.0\refint\d10.dll
+C:\Users\mgh\source\repos\d10\d10\obj\Debug\net8.0\d10.pdb
+C:\Users\mgh\source\repos\d10\d10\obj\Debug\net8.0\d10.genruntimeconfig.cache
+C:\Users\mgh\source\repos\d10\d10\obj\Debug\net8.0\ref\d10.dll
