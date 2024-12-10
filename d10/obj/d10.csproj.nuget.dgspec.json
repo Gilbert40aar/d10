@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mgh\\source\\repos\\d10\\d10\\d10.csproj": {}
+    "C:\\Users\\mgh\\Documents\\GitHub\\D10Menu\\d10\\d10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mgh\\source\\repos\\d10\\d10\\d10.csproj": {
+    "C:\\Users\\mgh\\Documents\\GitHub\\D10Menu\\d10\\d10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mgh\\source\\repos\\d10\\d10\\d10.csproj",
+        "projectUniqueName": "C:\\Users\\mgh\\Documents\\GitHub\\D10Menu\\d10\\d10.csproj",
         "projectName": "d10",
-        "projectPath": "C:\\Users\\mgh\\source\\repos\\d10\\d10\\d10.csproj",
+        "projectPath": "C:\\Users\\mgh\\Documents\\GitHub\\D10Menu\\d10\\d10.csproj",
         "packagesPath": "C:\\Users\\mgh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mgh\\source\\repos\\d10\\d10\\obj\\",
+        "outputPath": "C:\\Users\\mgh\\Documents\\GitHub\\D10Menu\\d10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

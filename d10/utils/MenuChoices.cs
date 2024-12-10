@@ -32,5 +32,32 @@ namespace d10.utils
                 Console.WriteLine(Entries[i]);
             }
         }
+
+        /// <summary>
+        /// Denne metode afvikler det valgte menupunkt.
+        /// </summary>
+        /// <param name="choice"></param>
+        public static void Case(string? choice)
+        {
+            switch (choice)
+            {
+                case "1":
+                    Program.WriteToFile();
+                    break;
+                case "2":
+                    Program.ReadFromFile();
+                    break;
+                case "3":
+                    Program.SearchInFile();
+                    break;
+                case "4":
+                    break;
+                case "5":
+                    Program.exit = false;
+                    break;
+                default:
+                    break;
+            }
+        }
     }
 }
